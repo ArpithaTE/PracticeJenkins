@@ -8,6 +8,10 @@ public class CreateTest {
 	}
 	
 	@Test
+	public void createTheContactTest() {
+		System.out.println("Contact Created =====PASS");
+	}
+	@Test
 	public void createOrgTest() {
 		System.out.println("Org Created =====PASS");
 	}
