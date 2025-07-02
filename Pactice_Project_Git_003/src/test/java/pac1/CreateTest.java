@@ -9,7 +9,7 @@ public class CreateTest {
 	
 	@Test
 	public void createTheContactTest() {
-		System.out.println("Contact Created =====PASS");
+		System.out.println("Contact The Created =====PASS");
 	}
 	@Test
 	public void createOrgTest() {
